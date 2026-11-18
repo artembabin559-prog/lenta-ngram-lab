@@ -1,0 +1,40 @@
+[
+  {
+    "order": 2,
+    "n": 30,
+    "copied4": 17,
+    "exact": 0,
+    "repeated2": 1,
+    "correct_end": 7,
+    "eos": 30,
+    "mean_length": 12.2,
+    "coherence_mean": 0.36666666666666664,
+    "coherence_hist": [
+      20,
+      9,
+      1
+    ],
+    "lexical_contexts": 3971,
+    "rare_contexts": 3335,
+    "single_successor": 2989
+  },
+  {
+    "order": 3,
+    "n": 30,
+    "copied4": 30,
+    "exact": 9,
+    "repeated2": 0,
+    "correct_end": 20,
+    "eos": 25,
+    "mean_length": 18,
+    "coherence_mean": 1.4666666666666666,
+    "coherence_hist": [
+      0,
+      16,
+      14
+    ],
+    "lexical_contexts": 6112,
+    "rare_contexts": 5967,
+    "single_successor": 5745
+  }
+]
